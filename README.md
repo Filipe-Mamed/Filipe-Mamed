@@ -17,6 +17,6 @@ E iniciando de:
 
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php-logo"/>
 
-Conecte-se comigo no linkedin
+Conecte-se comigo no linkedin:
 
 <a href="linkedin.com/in/filipe-m-68a21827b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo"/>
