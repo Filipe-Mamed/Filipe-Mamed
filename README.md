@@ -19,4 +19,4 @@ E iniciando de:
 
 Conecte-se comigo no linkedin:
 
-<a href="www.linkedin.com/in/filipe-m-68a21827b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo"/>
+<a href="https://www.linkedin.com/in/filipe-m-68a21827b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo"/>
