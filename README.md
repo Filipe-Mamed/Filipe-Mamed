@@ -1,24 +1,69 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou o Filipe Mamed 👋</h1>
 
-Eu sou o Filipe Mamed, sou um programador e estou fazendo projetos teste e postando aqui. Atualmente, estou cursando Tecnólogo em Análise e Desenvolvimento de Sistemas.
-<br>
-<br>
+<p align="center">
+Sou um desenvolvedor apaixonado por tecnologia e estou sempre aprendendo algo novo. Atualmente, estou cursando <strong>Análise e Desenvolvimento de Sistemas</strong> e criando projetos para desenvolver minhas habilidades práticas.
+</p>
 
-## Atualmente estou criando projetos com:
+---
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript-logo"/>
-<img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="react-logo"/>
-<img src="https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="node.js-logo"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white" alt="bootstrap-logo"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white" alt="mongodb-logo"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" alt="postgresql-logo"/>
+### 🚀 Tecnologias que estou utilizando atualmente:
 
-## E iniciando de:
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript-logo"/>
+  <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="react-logo"/>
+  <img src="https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="node.js-logo"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white" alt="bootstrap-logo"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white" alt="mongodb-logo"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" alt="postgresql-logo"/>
+</p>
 
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react.native-logo"/>
+---
 
-## Conecte-se comigo no linkedin:
+### 🌱 Explorando novos horizontes:
 
-<a href="https://www.linkedin.com/in/filipe-m-68a21827b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-native-logo"/>
+</p>
+
+---
+
+### 📫 Conecte-se comigo:
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/filipe-m-68a21827b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo"/>
+  </a>
+</p>
+
+---
+
+### 📊 Meus GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Filipe-Mamed&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filipe-Mamed&layout=compact&theme=tokyonight" alt="Top Langs"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Filipe-Mamed&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+
+---
+
+### 🤖 Diversão:
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
+
+---
+
+### ⚡ Curiosidades:
+- 🔭 Estou sempre buscando criar soluções úteis no dia a dia.
+- 🎯 Meu foco é fullstack web com JavaScript.
+- 📁 Veja meus repositórios para acompanhar meus projetos!
