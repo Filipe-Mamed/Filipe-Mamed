@@ -67,5 +67,4 @@ Sou um desenvolvedor apaixonado por tecnologia e estou sempre aprendendo algo no
 
 ### ⚡ Curiosidades:
 - 🔭 Estou sempre buscando criar soluções úteis no dia a dia.
-- 🎯 Meu foco é fullstack web com JavaScript.
 - 📁 Veja meus repositórios para acompanhar meus projetos!
